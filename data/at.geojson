@@ -4,7 +4,6 @@
 "features": [
 { "type": "Feature", "properties": { "addr": "鼋头渚" }, "geometry": { "type": "Point", "coordinates": [ 120.23341296643288, 31.529773954315807 ] } },
 { "type": "Feature", "properties": { "addr": "厦门" }, "geometry": { "type": "Point", "coordinates": [ 118.096435499766514, 24.485406605176305 ] } },
-{ "type": "Feature", "properties": { "addr": "包头" }, "geometry": { "type": "Point", "coordinates": [ 109.959798632010617, 40.627141224746779 ] } },
-{ "type": "Feature", "properties": { "addr": "上海天文馆" }, "geometry": { "type": "Point", "coordinates": [ 121.932414289335696, 30.91856272043723 ] } }
+{ "type": "Feature", "properties": { "addr": "包头" }, "geometry": { "type": "Point", "coordinates": [ 109.959798632010617, 40.627141224746779 ] } }
 ]
 }
