@@ -4,7 +4,7 @@
 "features": [
 { "type": "Feature", "properties": { "addr": "上海天文馆  " }, "geometry": { "type": "Point", "coordinates": [ 121.932414289335696, 30.91856272043723 ] } },
 { "type": "Feature", "properties": { "addr": "上海奉贤西渡  " }, "geometry": { "type": "Point", "coordinates": [ 121.447486427581282, 30.998908463380204 ] } },
-{ "type": "Feature", "properties": { "addr": "上海金汇港  " }, "geometry": { "type": "Point", "coordinates": [ 121.50660786573718, 30.970636661077034 ] } },
+{ "type": "Feature", "properties": { "addr": "上海奉贤海佳路金汇塘路  " }, "geometry": { "type": "Point", "coordinates": [ 121.529449529092147, 30.824278364433681 ] } },
 { "type": "Feature", "properties": { "addr": "上海浦东国际机场  " }, "geometry": { "type": "Point", "coordinates": [ 121.815090020238401, 31.157477828696791 ] } },
 { "type": "Feature", "properties": { "addr": "上海外滩  " }, "geometry": { "type": "Point", "coordinates": [ 121.49712553243495, 31.297758678923728 ] } },
 { "type": "Feature", "properties": { "addr": "上海世博公园  " }, "geometry": { "type": "Point", "coordinates": [ 121.492949040627423, 31.193040825054048 ] } },
