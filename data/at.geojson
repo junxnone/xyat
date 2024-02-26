@@ -4,6 +4,11 @@
 "features": [
 { "type": "Feature", "properties": { "addr": "鼋头渚  " }, "geometry": { "type": "Point", "coordinates": [ 120.23341296643288, 31.529773954315807 ] } },
 { "type": "Feature", "properties": { "addr": "厦门  " }, "geometry": { "type": "Point", "coordinates": [ 118.096435499766514, 24.485406605176305 ] } },
-{ "type": "Feature", "properties": { "addr": "包头  " }, "geometry": { "type": "Point", "coordinates": [ 109.959798632010617, 40.627141224746779 ] } }
+{ "type": "Feature", "properties": { "addr": "包头  " }, "geometry": { "type": "Point", "coordinates": [ 109.959798632010617, 40.627141224746779 ] } },
+{ "type": "Feature", "properties": { "addr": "香格里拉  " }, "geometry": { "type": "Point", "coordinates": [ 99.70744457389884, 27.835760125320558 ] } },
+{ "type": "Feature", "properties": { "addr": "丽江  " }, "geometry": { "type": "Point", "coordinates": [ 100.23246452903453, 26.860657438064884 ] } },
+{ "type": "Feature", "properties": { "addr": "昆明  " }, "geometry": { "type": "Point", "coordinates": [ 102.839445123260532, 24.886272111644136 ] } },
+{ "type": "Feature", "properties": { "addr": "梅里雪山  " }, "geometry": { "type": "Point", "coordinates": [ 106.549535193960423, 31.905372563896215 ] } },
+{ "type": "Feature", "properties": { "addr": "泸沽湖  " }, "geometry": { "type": "Point", "coordinates": [ 100.861916003062163, 27.731147874647561 ] } }
 ]
 }
